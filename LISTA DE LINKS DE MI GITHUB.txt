@@ -1,0 +1,4 @@
+## LISTA DE LINKS DE MI GITHUB
+|LUGAR|LIGA|
+|:---|:---:|
+|1a. Presentación curso PSSDE|<https://jbgrajeda.github.io/pssde1/>|
