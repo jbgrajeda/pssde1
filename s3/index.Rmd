@@ -6,9 +6,10 @@ output:
     theme: "solarized"
     center: "true"
     transition: "fade"
+    reveal_plugin: ["plugin/audio-slideshow/audio_slideshow.js"]
 ---
 
-# Dinámica demográfica
+# Dinámica demográfica {data-audio-text="primera presentación"}
 
 ## Variables principales de la *dinámica demográfica*
 Trata de los cambios diferenciales entre los grupos de población.
