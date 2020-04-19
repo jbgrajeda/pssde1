@@ -7,7 +7,7 @@ output:
     transition: zoom
 ---
 
-# {data-background="f/f.png"}
+# {data-background="F/f.png"}
 
 # El Desarrollo de la investigación {data-transition="zoom"}
 
