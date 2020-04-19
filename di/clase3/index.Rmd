@@ -2,7 +2,6 @@
 title: ""
 output: 
   revealjs::revealjs_presentation:
-    self_contained: false
     center: true
     theme: blood
     transition: zoom
