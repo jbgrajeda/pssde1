@@ -3,13 +3,13 @@ title: "Demografía; conceptos y categorías"
 author: "Jorge Enrique Bracamontes Grajeda"
 output: 
   revealjs::revealjs_presentation:
-    theme: "solarized"
-    center: "true"
-    transition: "fade"
-    reveal_plugin: ["plugin/audio-slideshow/audio_slideshow.js"]
+    self_contained: true
+    theme: blood
+    center: true
+    transition: zoom
 ---
 
-# Dinámica demográfica {data-audio-text="primera presentación"}
+# Dinámica demográfica
 
 ## Variables principales de la *dinámica demográfica*
 Trata de los cambios diferenciales entre los grupos de población.
@@ -35,8 +35,8 @@ Es el aumento de la proporción de adultos y ancianos un una población.
 ||
 |:---:|
 |ÍRÁMIDE DE POBLACIÓN JOVEN|
-|![img1](img/pirjovenes.png)|
+|![](pirjovenes.png)|
 |PIRÁMIDE DE POBLACIÓN ENVEJECIDA|
-|![img2](img/pirviejos.png)|
+|![](pirviejos.png)|
 
 
