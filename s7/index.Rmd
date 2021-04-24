@@ -1,0 +1,72 @@
+---
+title: "PSSDE: Sesión 21 de abril 2020"
+author: "Dr. Jorge Enrique Bracamontes Grajeda"
+output: 
+  revealjs::revealjs_presentation:
+    self_contained: false
+    center: true
+    theme: black
+    trnsition: zoom
+---
+
+# 2.1 Pobreza y envejecimiento
+
+# La pobreza...
+
+>1. Denota carencia material o subjetiva
+>2. Multidimensional
+>3. Es un fenómeno complejo
+
+# En la práctica:
+
+*La pobreza ha podido ser unicamente 'objetivada' como pobreza absoluta, es decir, como la carencia de ingresos*
+
+# ...y sinembargo:
+
+*Se reconoce su complejidad y en tema de vejez y envejecimiento tiene que ver con :*
+
+1. los cuidados
+2. la discapacidad
+3. la cultura
+4. la pobreza absoluta
+
+...entre otras.
+
+# 
+
+La estrategia actual a nivel multinacional son las políticas de *Bienestar* y sus distintos propósitos implican la búsqueda de la seguridad económica de los y las mayores.
+
+# 2.2 Seguridad social
+
+# ¿Qué es la Seguridad Social?
+
+Es la principal herramienta del *Bienestar* para proteger a la sociedad
+
+Se vincula principal mente con las personas a travéz de la relación laboral
+
+# 
+
+*Se compone principalmente de:*
+
++ Sistemas de pensiones
+  a. Beneficios definidos (Sistema anterior del IMSS)
+  b. Contribuciones definidas (Afores y Sistemas del ISSTE)
+  c. Pensiones no contributivas (70 y más)
+ 
+ + Sistemas de salud
+  a. Para los trabajaores del sector privado (IMSS)
+  b. Institucionales y del Estado MExicano (ISSSTE, Ejército, PEMEX...)
+  c. Para población abierta (SSA)
+
+# El problema de la S.S.
+
+La vinculación a los sistemas de la seguridad social mediante la relación laboral.
+
+Ello deriva en problemas de derechos humanos, pobreza, desigualdad, exclusión y género.
+
+# Actividades
+
+1. Hacer un reporte acerca de lo que significa la seguridad económica en México.
+2. Esquematizar todos los tipos de beneficios que tiene la seguridad social en México, además de los sistemas de pensiones y salud.
+
+Estos reportes deben elaborarse a más tardar para el 2 de mayo y subirse a plataforma como PDF.
