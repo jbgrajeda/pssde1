@@ -42,18 +42,33 @@ background-size: contain
 class: animated, zoomIn, middle
 ---
 
-## Recordando:
+# Introducción
 
-Saber si se proclamaría
+En general los sistemas de protección social se estructuran como:
 
+## 1) Sistemas de Asistencia social  y  2) Sistemas de seguridad social
 
-1. Definir la temática a estudiar
-2. Definir la población de estudio
-3. Esquematizar el conjunto de variables que se requiere para el estudio
-4. Elaboración del reporte de perfil sociodemográfico
+Por medio de estos sistemas se atiende "lo público" y "lo social".
 ---
+# LA PROTECCIÓN SOCIAL IMPLICA EN PARTE UN SISTEMA COMPLEJO DE PROTECCIÓN SOCIAL
 
-# Diapo 2
+.pull-left[
+#### TIPOS DE ACCIONES
+
++ Asesorías, capacitación, educación comunitaria
++ Transferencias monetarias directas o indirectas a la población
++ Prestaciones sociales y por las relaciones laborales
++ ...entre otros
+]
+
+.pull-right[
+#### ACTORES
+
++ El rpopio Estado en sus distintos niveles de gobierno
++ Instituciones descentralizadas
++ Sociedad civil organizada y no organizada
++ Otros sectores de la sociedad públicos o privados
+]
 ---
 
 # Diapo 3
