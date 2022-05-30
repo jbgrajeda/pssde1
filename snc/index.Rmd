@@ -1,0 +1,61 @@
+
+---
+output:
+  xaringan::moon_reader:
+    css:
+      - xaringan-themer.css
+      - animate.min.css
+    lib_dir: libs
+    nature:
+      highlightStyle: solarized-light
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+    seal: false
+---
+background-image: url(img/fnd1.png)
+background-size: contain
+background-position: center
+class: hide-logo, center, middle, animated, zoomIn
+
+```{r xaringan-themer, echo=FALSE,include=FALSE,warning=FALSE}
+library(xaringanthemer)
+style_xaringan(
+  text_color = "yellow",
+  text_font_family = "Droid Serif",
+  text_font_url = "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic",
+  header_font_google = google_font("Yanone Kaffeesatz"),
+  header_color = "white"
+)
+```
+
+				</div>
+## Sistema Nacional de Cuidados: un reto para la evaluación de políticas públicas desde lo local
+
+
+### Dr. Jorge Enrique Bracamontes Grajeda
+
+---
+layout: true
+background-image: url(img/fondo3.png)
+background-size: contain
+class: animated, zoomIn, middle
+---
+
+## Recordando:
+
+Saber si se proclamaría
+
+
+1. Definir la temática a estudiar
+2. Definir la población de estudio
+3. Esquematizar el conjunto de variables que se requiere para el estudio
+4. Elaboración del reporte de perfil sociodemográfico
+---
+
+# Diapo 2
+---
+
+# Diapo 3
+---
+                                                                                
