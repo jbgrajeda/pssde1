@@ -18,18 +18,18 @@
  *  Version: 0.4.1
  *
  * ------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Thasadith:400,400i,600i,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Gugi:400,400i,600i,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700&display=swap);
 
 
 :root {
   /* Fonts */
-  --text-font-family: 'Droid Serif';
-  --text-font-is-google: 0;
+  --text-font-family: Thasadith;
+  --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: 'Yanone Kaffeesatz';
+  --header-font-family: Gugi;
   --header-font-is-google: 1;
   --header-font-family-fallback: Georgia, serif;
   --code-font-family: 'Source Code Pro';
@@ -43,7 +43,7 @@
   --header-h3-font-size: 1.75rem;
 
   /* Colors */
-  --text-color: yellow;
+  --text-color: white;
   --header-color: white;
   --background-color: #FFF;
   --link-color: rgb(249, 38, 114);
@@ -64,7 +64,7 @@ html {
 
 body {
   font-family: var(--text-font-family), var(--text-font-family-fallback), var(--text-font-base);
-  font-weight: normal;
+  font-weight: 400;
   color: var(--text-color);
 }
 h1, h2, h3 {

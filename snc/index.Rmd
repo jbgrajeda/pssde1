@@ -21,10 +21,10 @@ class: hide-logo, center, middle, animated, zoomIn
 ```{r xaringan-themer, echo=FALSE,include=FALSE,warning=FALSE}
 library(xaringanthemer)
 style_xaringan(
-  text_color = "yellow",
+  text_color = "white",
   text_font_family = "Droid Serif",
-  text_font_url = "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic",
-  header_font_google = google_font("Yanone Kaffeesatz"),
+  text_font_google=google_font("Thasadith" ,  "400" ,  "400i" ,  "600i" ,  "700" ),
+  header_font_google = google_font("Gugi","400" ,  "400i" ,  "600i" ,  "700" ),
   header_color = "white"
 )
 ```
@@ -42,13 +42,12 @@ background-size: contain
 class: animated, zoomIn, middle
 ---
 
-# Introducción
+<center><h1> Introducción</h1></center>
+### En general los sistemas de protección social se estructuran como:
 
-En general los sistemas de protección social se estructuran como:
+### 1) Sistemas de Asistencia social  y  2) Sistemas de seguridad social
 
-## 1) Sistemas de Asistencia social  y  2) Sistemas de seguridad social
-
-Por medio de estos sistemas se atiende "lo público" y "lo social".
+**Por medio de estos sistemas se atiende "lo público" y "lo social".**
 ---
 # LA PROTECCIÓN SOCIAL IMPLICA EN PARTE UN SISTEMA COMPLEJO DE PROTECCIÓN SOCIAL
 
@@ -70,7 +69,7 @@ Por medio de estos sistemas se atiende "lo público" y "lo social".
 + Otros sectores de la sociedad públicos o privados
 ]
 ---
-
+class: inverse
 # Diapo 3
 ---
                                                                                 
