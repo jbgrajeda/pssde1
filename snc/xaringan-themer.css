@@ -18,18 +18,18 @@
  *  Version: 0.4.1
  *
  * ------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Thasadith:400,400i,600i,700&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Gugi:400,400i,600i,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=poppins&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Montserrat&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700&display=swap);
 
 
 :root {
   /* Fonts */
-  --text-font-family: Thasadith;
+  --text-font-family: poppins;
   --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: Gugi;
+  --header-font-family: Montserrat;
   --header-font-is-google: 1;
   --header-font-family-fallback: Georgia, serif;
   --code-font-family: 'Source Code Pro';
@@ -43,8 +43,8 @@
   --header-h3-font-size: 1.75rem;
 
   /* Colors */
-  --text-color: white;
-  --header-color: white;
+  --text-color: black;
+  --header-color: black;
   --background-color: #FFF;
   --link-color: rgb(249, 38, 114);
   --code-highlight-color: rgba(255,255,0,0.5);
@@ -54,7 +54,7 @@
   --inverse-link-color: rgb(249, 38, 114);
   --title-slide-background-color: #272822;
   --title-slide-text-color: #d6d6d6;
-  --header-background-color: white;
+  --header-background-color: black;
   --header-background-text-color: #FFF;
 }
 
@@ -64,7 +64,7 @@ html {
 
 body {
   font-family: var(--text-font-family), var(--text-font-family-fallback), var(--text-font-base);
-  font-weight: 400;
+  font-weight: normal;
   color: var(--text-color);
 }
 h1, h2, h3 {
